@@ -2,6 +2,7 @@ import pygame as pg,sys
 from pygame.locals import *
 import time
 
+#created by Tejas Barhate
 #initialize global variables
 XO = 'x'
 winner = None
